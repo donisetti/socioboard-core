@@ -1,0 +1,13 @@
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\GlobusMailLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\GlobusMailLib.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\log4net.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\Mandrill.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\Newtonsoft.Json.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\RestSharp.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\SendGridMail.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\ServiceStack.Text.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\bin\Debug\Newtonsoft.Json.xml
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\obj\Debug\GlobusMailLib.csproj.CoreCompileInputs.cache
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\obj\Debug\GlobusMailLib.csproj.CopyComplete
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\obj\Debug\GlobusMailLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusMailLib\obj\Debug\GlobusMailLib.pdb

@@ -1,0 +1,8 @@
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusTumblerLib\bin\Debug\GlobusTumblerLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusTumblerLib\bin\Debug\GlobusTumblerLib.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusTumblerLib\bin\Debug\Newtonsoft.Json.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusTumblerLib\bin\Debug\Newtonsoft.Json.xml
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusTumblerLib\obj\Debug\GlobusTumblrLib.csproj.CoreCompileInputs.cache
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusTumblerLib\obj\Debug\GlobusTumblrLib.csproj.CopyComplete
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusTumblerLib\obj\Debug\GlobusTumblerLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusTumblerLib\obj\Debug\GlobusTumblerLib.pdb

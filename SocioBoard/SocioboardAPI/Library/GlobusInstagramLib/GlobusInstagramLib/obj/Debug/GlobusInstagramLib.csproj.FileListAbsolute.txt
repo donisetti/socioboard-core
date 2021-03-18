@@ -1,0 +1,6 @@
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusInstagramLib\GlobusInstagramLib\bin\Debug\GlobusInstagramLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusInstagramLib\GlobusInstagramLib\bin\Debug\GlobusInstagramLib.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusInstagramLib\GlobusInstagramLib\obj\Debug\GlobusInstagramLib.csproj.CoreCompileInputs.cache
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusInstagramLib\GlobusInstagramLib\obj\Debug\GlobusInstagramLib.csproj.CopyComplete
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusInstagramLib\GlobusInstagramLib\obj\Debug\GlobusInstagramLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusInstagramLib\GlobusInstagramLib\obj\Debug\GlobusInstagramLib.pdb

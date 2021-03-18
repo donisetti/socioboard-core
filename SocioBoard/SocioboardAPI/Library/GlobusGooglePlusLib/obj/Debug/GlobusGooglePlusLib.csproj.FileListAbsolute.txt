@@ -1,0 +1,8 @@
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusGooglePlusLib\bin\Debug\GlobusGooglePlusLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusGooglePlusLib\bin\Debug\GlobusGooglePlusLib.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusGooglePlusLib\bin\Debug\Newtonsoft.Json.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusGooglePlusLib\bin\Debug\Newtonsoft.Json.xml
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusGooglePlusLib\obj\Debug\GlobusGooglePlusLib.csproj.CoreCompileInputs.cache
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusGooglePlusLib\obj\Debug\GlobusGooglePlusLib.csproj.CopyComplete
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusGooglePlusLib\obj\Debug\GlobusGooglePlusLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusGooglePlusLib\obj\Debug\GlobusGooglePlusLib.pdb

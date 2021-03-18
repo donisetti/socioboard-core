@@ -87,7 +87,7 @@
       <HintPath>Lib\RestSharp.dll</HintPath>
     </Reference>
     <Reference Include="SendGridMail">
-      <HintPath>..\..\..\..\..\SB_30_05_15\trunk\SocioboardAPI\Library\GlobusMailLib\bin\Debug\SendGridMail.dll</HintPath>
+      <HintPath>..\..\lib\SendGridMail.dll</HintPath>
     </Reference>
     <Reference Include="ServiceStack.Text">
       <HintPath>Lib\ServiceStack.Text.dll</HintPath>

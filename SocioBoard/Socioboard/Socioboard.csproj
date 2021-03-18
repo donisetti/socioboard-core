@@ -21,6 +21,8 @@
     <IISExpressWindowsAuthentication />
     <IISExpressUseClassicPipelineMode />
     <TargetFrameworkProfile />
+    <Use64BitIISExpress />
+    <UseGlobalApplicationHostFile />
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
     <DebugSymbols>true</DebugSymbols>
@@ -47,7 +49,7 @@
       <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
     </Reference>
     <Reference Include="ChilkatDotNet2">
-      <HintPath>..\..\..\..\SVN\Socioboard\bin\ChilkatDotNet2.dll</HintPath>
+      <HintPath>..\SocioboardAPI\lib\ChilkatDotNet2.dll</HintPath>
     </Reference>
     <Reference Include="DataStreams, Version=5.14.0.0, Culture=neutral, PublicKeyToken=9c9b03c227e1bea6, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
@@ -62,10 +64,19 @@
     </Reference>
     <Reference Include="Facebook, Version=6.0.10.0, Culture=neutral, PublicKeyToken=58cb4f2111d1e6de, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\dev.socioboard.com\trunk\Socioboard\bin\Facebook.dll</HintPath>
+      <HintPath>..\SocioboardAPI\lib\Facebook.dll</HintPath>
     </Reference>
-    <Reference Include="HtmlAgilityPack">
-      <HintPath>..\..\..\..\SVN\Socioboard\bin\HtmlAgilityPack.dll</HintPath>
+    <Reference Include="Facebook.Web">
+      <HintPath>..\SocioboardAPI\lib\Facebook.Web.dll</HintPath>
+    </Reference>
+    <Reference Include="Facebook.Web.Mvc">
+      <HintPath>..\SocioboardAPI\lib\Facebook.Web.Mvc.dll</HintPath>
+    </Reference>
+    <Reference Include="FacebookGraphAPI">
+      <HintPath>..\SocioboardAPI\lib\FacebookGraphAPI.dll</HintPath>
+    </Reference>
+    <Reference Include="HtmlAgilityPack, Version=1.11.31.0, Culture=neutral, PublicKeyToken=bd319b19eaf3b43a, processorArchitecture=MSIL">
+      <HintPath>..\packages\HtmlAgilityPack.1.11.31\lib\Net45\HtmlAgilityPack.dll</HintPath>
     </Reference>
     <Reference Include="log4net">
       <HintPath>..\SocioboardAPI\lib\log4net.dll</HintPath>
@@ -76,6 +87,8 @@
     </Reference>
     <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
       <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\packages\Microsoft.Office.Interop.Excel.14.0.0.1\lib\net20\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Microsoft.Office.Tools.Excel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
       <EmbedInteropTypes>True</EmbedInteropTypes>
@@ -661,6 +674,7 @@
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </Content>
+    <Content Include="libman.json" />
     <None Include="Scripts\jquery-2.1.4-vsdoc.js" />
     <Content Include="Scripts\jquery-2.1.4.js" />
     <Content Include="Scripts\jquery-2.1.4.min.js" />

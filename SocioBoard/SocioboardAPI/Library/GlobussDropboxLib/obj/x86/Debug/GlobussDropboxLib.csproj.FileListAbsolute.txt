@@ -1,0 +1,9 @@
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\bin\Debug\GlobussDropboxLib.exe.config
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\bin\Debug\GlobussDropboxLib.exe
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\bin\Debug\GlobussDropboxLib.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\bin\Debug\Newtonsoft.Json.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\bin\Debug\Newtonsoft.Json.xml
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\obj\x86\Debug\GlobussDropboxLib.csproj.CoreCompileInputs.cache
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\obj\x86\Debug\GlobussDropboxLib.csproj.CopyComplete
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\obj\x86\Debug\GlobussDropboxLib.exe
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobussDropboxLib\obj\x86\Debug\GlobussDropboxLib.pdb

@@ -1,0 +1,13 @@
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\bin\Debug\GlobusLinkedinLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\bin\Debug\GlobusLinkedinLib.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\bin\Debug\Domain.Socioboard.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\bin\Debug\Newtonsoft.Json.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\bin\Debug\MongoDB.Bson.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\bin\Debug\Domain.Socioboard.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\bin\Debug\Domain.Socioboard.dll.config
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\bin\Debug\MongoDB.Bson.xml
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\obj\Debug\GlobusLinkedinLib.csprojAssemblyReference.cache
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\obj\Debug\GlobusLinkedinLib.csproj.CoreCompileInputs.cache
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\obj\Debug\GlobusLinkedinLib.csproj.CopyComplete
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\obj\Debug\GlobusLinkedinLib.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardAPI\Library\GlobusLinkedinLib\obj\Debug\GlobusLinkedinLib.pdb

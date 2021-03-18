@@ -1,0 +1,17 @@
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\SocioboardDataServices.exe.config
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\SocioboardDataServices.exe
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\SocioboardDataServices.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\Domain.Socioboard.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\Facebook.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\log4net.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\MongoDB.Bson.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\Newtonsoft.Json.dll
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\Domain.Socioboard.pdb
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\Domain.Socioboard.dll.config
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\Facebook.xml
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\MongoDB.Bson.xml
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\bin\Debug\Newtonsoft.Json.xml
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\obj\Debug\SocioboardDataServices.csproj.CoreCompileInputs.cache
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\obj\Debug\SocioboardDataServices.csproj.CopyComplete
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\obj\Debug\SocioboardDataServices.exe
+C:\lab\linkedintools\socioboard-core\SocioBoard\SocioboardDataServices\obj\Debug\SocioboardDataServices.pdb
